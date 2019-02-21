@@ -62,3 +62,10 @@ videos to the folder (*C:\merge_videos*) and just type the name of the 4 videos 
     * The new merged video will be created in the same folder with the name
 "YYYY-MM-DD HH:MM:SS.Millisecs#merge4to1.mp4" (for example: 2019-02-20
 20-44-30.106004#merge4to1.mp4)
+
+#### Final notes
+
+The system also works in Linux and MacOS
+
+* Linux and MacOS commands:
+    * Instead of **venv\Scripts\activate.bat** use **source venv/bin/activate**
