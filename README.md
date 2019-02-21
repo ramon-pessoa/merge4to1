@@ -8,7 +8,7 @@ System to merge 4 videos in 1 video.
 ### Table of contents
 
 * [Merge4to1 installation steps on Windows](#merge4to1-installation-steps-on-windows)
-* [Running the Merge4to1 system 10](#running-the-merge4to1-system-10)
+* [Running the Merge4to1 system](#running-the-merge4to1-system)
 
 #### Merge4to1 installation steps on Windows
 
