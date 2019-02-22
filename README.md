@@ -27,13 +27,13 @@ https://www.python.org/downloads/ )
 
 ![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/3.png)
 
-    * Choose *Customize installation* and *Add Python 3.7 to PATH*
+ * Choose *Customize installation* and *Add Python 3.7 to PATH*
 
 ![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/4.png)
 
 ![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/5.png)
 
-	* Change *Customize install location* to *C:\Python37* and press Install
+* Change *Customize install location* to *C:\Python37* and press Install
 
 ![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/6.png)
 
