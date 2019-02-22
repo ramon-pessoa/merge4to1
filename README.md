@@ -5,6 +5,8 @@ Merge4to1 system
 
 System to merge 4 videos in 1 video.
 
+![Merge 4 videos in 1 video](https://github.com/ramon-pessoa/merge4to1#running-the-merge4to1-system/images/1-four_merged_videos.png)
+
 ### Table of contents
 
 * [Merge4to1 installation steps on Windows](#merge4to1-installation-steps-on-windows)
@@ -68,4 +70,4 @@ videos to the folder (*C:\merge_videos*) and just type the name of the 4 videos 
 The system also works in Linux and MacOS
 
 * Linux and MacOS commands:
-    * Instead of **venv\Scripts\activate.bat** use **source venv/bin/activate**
+    * Instead of **venv\Scripts\activate.bat**, use **source venv/bin/activate**
