@@ -5,7 +5,7 @@ Merge4to1 system
 
 System to merge 4 videos in 1 video.
 
-![Merge 4 videos in 1 video](https://github.com/ramon-pessoa/merge4to1#running-the-merge4to1-system/images/1-four_merged_videos.png)
+![Merge 4 videos in 1 video](https://github.com/ramon-pessoa/merge4to1/blob/master/images/1-four_merged_videos.png)
 
 ### Table of contents
 
