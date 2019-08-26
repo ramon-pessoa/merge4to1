@@ -22,24 +22,7 @@ the *merge4to1.py*, *requirements.txt*, and *videos.txt* files inside this folde
 
 ![Create a folder in your computer](https://github.com/ramon-pessoa/merge4to1/blob/master/images/2.png)
 
-3. Install python 3 (for example: Python 3.7.2) in your computer (To install python:
-https://www.python.org/downloads/ )
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/3.png)
-
- * Choose *Customize installation* and *Add Python 3.7 to PATH*
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/4.png)
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/5.png)
-
-* Change *Customize install location* to *C:\Python37* and press Install
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/6.png)
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/7.png)
-
-![Install python 3](https://github.com/ramon-pessoa/merge4to1/blob/master/images/8.png)
+3. Install python 3
 
 4. Open the terminal/prompt/command line (Windows button > run > cmd > OK)
 
